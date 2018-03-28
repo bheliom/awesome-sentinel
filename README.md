@@ -105,6 +105,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 - [**Thematic Exploitation Platforms "TEPs"**](https://tep.eo.esa.int/)
   - platforms for finding and processing (Sentinel) data relating to a thematic topic
   - available platforms: [Coastal](https://coastal-tep.eo.esa.int/portal), [Forestry](https://forestry-tep.eo.esa.int/), [Geohazards](https://geohazards-tep.eo.esa.int/), [Hydrology](https://hydrology-tep.eo.esa.int/), [Polar](https://polar-tep.eo.esa.int/), [Urban](https://urban-tep.eo.esa.int/#!), [Food Security](https://foodsecurity-tep.eo.esa.int/)
+- [**Spectator**](https://spectator.earth/)
+  - offers real-time tracking of EO satellites, managing and sharing observations
+  - allows to search and preview Sentinel-1, 2, 3 data and more
 
 ### Processing
 - [**`SNAP` (Sentinel Application Plattform)**](http://step.esa.int/main/toolboxes/snap/)
